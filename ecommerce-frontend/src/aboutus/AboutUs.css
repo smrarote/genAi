@@ -1,0 +1,29 @@
+/* AboutUs.css */
+
+.about-us-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .mission-section,
+  .team-section {
+    margin-top: 20px;
+  }
+  
+  .team-member {
+    margin-top: 20px;
+  }
+  
+  .team-member img {
+    max-width: 200px;  /* Adjust the max-width as needed */
+    border-radius: 50%; /* Make the image circular */
+  }
+  
+  .team-member h3 {
+    margin-top: 10px;
+  }
+  
+  .team-member p {
+    color: #555;  /* Dark gray color for the team member role */
+  }
+  

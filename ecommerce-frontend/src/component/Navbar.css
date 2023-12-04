@@ -1,0 +1,76 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+  }
+  
+  .logo a {
+    color: black;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+  
+  .nav-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+  }
+  
+  .nav-links li {
+    margin: 0 10px;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.2em;
+  }
+.welcome-section {
+  padding: 20px;
+  text-align: center;
+  background-color: #f0f0f0;
+}
+
+.welcome-section h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.welcome-section p {
+  font-size: 1.2em;
+  color: #555;
+}
+/* Navbar.css */
+/* Your existing styles */
+
+.sticker {
+  max-width: 100%;
+  height: auto;
+  margin: 20px 0; /* Adjust the margin as needed */
+}
+/* Navbar.css */
+/* Your existing styles */
+
+@keyframes blink {
+  0% {
+    color: #ff0000; /* Red color */
+  }
+  50% {
+    color: #ffff00; /* Yellow color */
+  }
+  100% {
+    color: #ff0000; /* Red color */
+  }
+}
+
+.highlighted-blinking {
+  font-weight: bold;
+  animation: blink 2s infinite; /* 2 seconds duration, infinite loop */
+}
+
+/* Your existing styles */
+
+
+  

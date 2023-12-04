@@ -1,0 +1,36 @@
+/* LootoLogo.css */
+
+.looto-logo-container {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .looto-logo {
+    max-width: 200px;  /* Adjust the max-width as needed */
+  }
+  
+  .welcome-message {
+    margin-top: 20px;
+  }
+  
+  .exciting-info {
+    margin-top: 20px;
+  }
+  
+  .special-offers {
+    margin-top: 20px;
+  }
+  
+  .special-offers h2 {
+    color: #ff4500;  /* Orange color for the heading, adjust as needed */
+  }
+  
+  .special-offers ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .special-offers li {
+    margin-bottom: 10px;
+  }
+  
